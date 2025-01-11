@@ -3,8 +3,8 @@ layout: page
 title: ""
 ---
 
-<div style="float: left; margin-right: 20px;">
-  ![Alt Text](IMG_2623.png.jpg)
+<div style="float: right; margin-left: 15px;">
+  <img src="IMG_2623.png" alt="Description of Image" width="200">
 </div>
 
 I am a grants administration professional with over 14 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors. 
