@@ -3,6 +3,10 @@ layout: page
 title: ""
 ---
 
+<div style="float: left; margin-right: 20px;">
+  ![Alt Text](IMG_2623.png.jpg)
+</div>
+
 I am a grants administration professional with over 14 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors. 
 
-I am currently pursuing a graduate degree from the [VCU Center for Environmental Studies](https://ces.vcu.edu) with the goal of bringing my grant leadership experience to the field of environmental conservation and research.  mitigating the effects of climate change and restoring our natural environment.  
+I am also a graduate student in the [VCU Center for Environmental Studies](https://ces.vcu.edu).  I am focused on bringing my project management and grant leadership experience to the fields of environmental conservation and research.  
