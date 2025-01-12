@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="float: right; margin-left: 15px;">
-  <img src="IMG_2623.png" alt="Description of Image" width="200">
+  <img src="/assets/IMG_2623.png" alt="Description of Image" width="200">
 </div>
 
 I am a grants administration professional with over 14 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors. 
