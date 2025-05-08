@@ -12,3 +12,11 @@ I am a graduate student in the [VCU Center for Environmental Studies](https://ce
 I am also a grants administration professional with over 14 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors.  In addition to my grants background, I bring several years of experience in reporting and data analytics, supporting strategic decision-making and program evaluation.
 
 
+
+## **Recent Projects**
+
+[Wildfire & High-Elevation Streams: Uncovering short-term hidden impacts on stream-riparian food webs](https://qubeshub.org/publications/5366/1) A lesson on stastistical significance versus ecological relevance, linear mixed-effect models, and the impacts of wildfire on stream-riparian food webs completed for ENVS 603 Environmental Research Methods in May 2025.
+
+[Foraging Behaviors of Enhydra lutris](http://candice-weber.github.io/C.-Weber-Final-Project.html) A data wrangling and anlaysis project completed for ENVS 343 Environmental Data Literacy in April 2024.
+
+
