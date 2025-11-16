@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="float: right; margin-left: 15px;">
-  <img src="/assets/IMG_5405-EDIT.png" alt="A picture of Candice smiling at the camera with a baseball hat and headlamp on." width="200">
+  <img src="/assets/IMG_2623.png" alt="A picture of Candice smiling at the camera with a baseball hat and headlamp on." width="200">
 </div>
 
 I am a graduate student in the [VCU School of Life Sciences and Sustainability](https://slss.vcu.edu/), where I’m focused on bringing my project management, data analytics, and leadership experience to the fields of environmental conservation and research.
