@@ -9,7 +9,7 @@ title: ""
 
 I am a graduate student in the [VCU School of Life Sciences and Sustainability](https://slss.vcu.edu/), where I’m focused on bringing my project management, data analytics, and leadership experience to the fields of environmental conservation and research.
 
-I am also a grants administration professional with over 14 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors.  In addition to my grants background, I bring several years of experience in reporting and data analytics, supporting strategic decision-making and program evaluation.
+I am also a grants administration professional with over 15 years of experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors.  In addition to my grants background, I bring several years of experience in reporting and data analytics, supporting strategic decision-making and program evaluation.
 
 
 
