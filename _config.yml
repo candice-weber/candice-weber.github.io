@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "/assets/C.Weber_Resume.pdf", title: "Resume"}
+  - {url: "https://www.linkedin.com/in/candiceweberva", title: "LinkedIn Profile"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:candiceweber7@gmail.com"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/cwebervirginia"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/candiceweberva"}
   
 
 comments:
