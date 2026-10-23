@@ -12,7 +12,7 @@ I am a graduate student in the [VCU School of Life Sciences and Sustainability](
 I am also a grants administration professional with experience applying for and managing grant-funded research from a variety of federal, foundation, and industry sponsors. In addition to my grants background, I bring several years of experience in reporting and data analytics, supporting strategic decision-making and program evaluation.
 
 
-## **Recent Projects**
+## **Recent Projects with VCU SLSS**
 
 [C5 Air Quality Monitoring Program](https://www.c5groupinform.com/air-quality-monitoring-mobile) and [C5 Water Quality Monitoring Program](https://www.c5groupinform.com/water-quality-monitoring) A VCU Rice Rivers Center internship assisting a grass-roots environmental justice group (Concerned Citizens of Charles City County) develop a community-based environmental monitoring program collecting air and water quality data, making data accessible to county residents through interactive dashboards and websites using HTML and R. 
 
